@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>iins.me/post/</loc>
+    <loc>www.iins.me/post/</loc>
     <lastmod>2020-12-08T21:59:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>iins.me/</loc>
+    <loc>www.iins.me/</loc>
     <lastmod>2020-12-08T21:59:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>iins.me/post/test/</loc>
+    <loc>www.iins.me/post/test/</loc>
     <lastmod>2020-12-08T21:59:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>iins.me/categories/</loc>
+    <loc>www.iins.me/categories/</loc>
   </url>
   
   <url>
-    <loc>iins.me/tags/</loc>
+    <loc>www.iins.me/tags/</loc>
   </url>
   
 </urlset>
